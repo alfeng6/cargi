@@ -24,6 +24,6 @@ Emily Tang
 
 
 # Team Communication
-[a link] cargi.slack.com
+[a link](cargi.slack.com)
 
 
