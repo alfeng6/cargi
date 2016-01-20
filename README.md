@@ -18,7 +18,7 @@ Edwin Park
 <img src="http://i.imgur.com/hlSI4zx.jpg" alt="Ishita Prasad" width="204.8" height="136.5"> 
 Ishita Prasad 
 
-<img src="http://i.imgur.com/BE2CmbR.jpg" alt="Emily Tang" width="204.8" height="136.5"> 
+<img src="http://i.imgur.com/BE2CmbR.jpg" alt="Emily Tang" width="204.8" height="153.6"> 
 Emily Tang 
 
 
