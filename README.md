@@ -36,6 +36,7 @@ Tara | Statistical Data Mining, Machine Learning, NLP, HCI, econometrics, busine
 
 # Team Communication:
 [cargi.slack.com](https://cargi.slack.com)
+
 [Google Drive](https://drive.google.com/folderview?id=0B9Jtns7w2L8rdUNzOF9tZWF4MjQ&usp=sharing)
 
 
