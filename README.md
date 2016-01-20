@@ -1,4 +1,4 @@
-# ![CS210](http://i.imgur.com/WdBU7U5.png (784b) ) # Cargi
+# ![CS210](http://i.imgur.com/WdBU7U5.png (784b) ) Cargi
 
 
 
