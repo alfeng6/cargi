@@ -22,19 +22,21 @@ Ishita Prasad
 <img src="http://i.imgur.com/BE2CmbR.jpg" alt="Emily Tang" width="204.8" height="153.6"> 
 Emily Tang 
 
-# Team Skills Matrix
+# Team Skills Matrix:
 
 Member | Skills | Personal Traits | Desired Growth | Weaknesses | Hat
---- | --- | --- | --- | ---
+--- | --- | --- | --- | --- | ---
 Edwin | iOS Development, Statistical Data Mining, Machine Learning, AI, Computer Vision | Meticulous | Management, collaboration, gitHub | ... | Blue Hat
 Emily | Team/Product Management, Natural Language Processing, Computer Vision, AI, Machine Learning | ... | Programming, HCI | ... | Yellow Hat
 Ishita | Design thinking, ethnography, user research, prototyping, visuals, web programming | Strategic, empathetic, very organized  | Product strategy, design, management, collaboration | Programming, AI, bad memory | Black Hat
 Maya | ... | ... | ... | ... | Green Hat
-Tara | Statistical Data Mining, Machine Learning, NLP, HCI, econometrics, business/product strategy | Calm |  Mobile development, scalable systems | documentation | White Hat
+Tara | Statistical Data Mining, Machine Learning, NLP, HCI, econometrics, business/product strategy | Calm |  Mobile development, scalable systems | Documentation | White Hat
 
 
 
-# Team Communication
-cargi.slack.com
+# Team Communication:
+[cargi.slack.com](https://cargi.slack.com)
+[Google Drive](https://drive.google.com/folderview?id=0B9Jtns7w2L8rdUNzOF9tZWF4MjQ&usp=sharing)
+
 
 
