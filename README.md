@@ -11,7 +11,9 @@ Tara Balakrishnan <img src="http://i.imgur.com/VhFoQUj.jpg" alt="Tara Balakrishn
 
 
 Edwin Park
-Ishita Prasad
+Ishita Prasad <img src="http://i.imgur.com/hlSI4zx.jpg" alt="Tara Balakrishnan" width="102.4" height="68.25"> 
+
+
 Emily Tang
 
 
