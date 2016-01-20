@@ -4,7 +4,7 @@ Many tools in our lives are personalized, and we should expect the same things f
 
 
 # Team Logo:
-<img src="http://imgur.com/jHcoBgU" alt="cargi logo">
+<img src="http://i.imgur.com/jHcoBgU.png" alt="cargi logo" width="300">
 
 # Team Members: 
 <img src="http://i.imgur.com/2IXwdq9.jpg" alt="Maya Balakrishnan" width="105.3" height="157.5"> 
