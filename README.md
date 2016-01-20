@@ -6,7 +6,7 @@ Many tools in our lives that are personalized, and we should expect the same thi
 # Team Logo:
 
 # Team Members: 
-<img src="http://i.imgur.com/2IXwdq9.jpg" alt="Maya Balakrishnan" width="105.3" height="133"> 
+<img src="http://i.imgur.com/2IXwdq9.jpg" alt="Maya Balakrishnan" width="105.3" height="157.5"> 
 Maya Balakrishnan 
 
 <img src="http://i.imgur.com/VhFoQUj.jpg" alt="Tara Balakrishnan" width="105.3" height="133"> 
