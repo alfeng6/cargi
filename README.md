@@ -6,15 +6,15 @@ Many tools in our lives that are personalized, and we should expect the same thi
 # Team Logo:
 
 # Team Members: 
-Maya Balakrishnan
+Maya Balakrishnan <img src="http://i.imgur.com/2IXwdq9.jpg" alt="Maya Balakrishnan" width="105.3" height="133"> 
+
 Tara Balakrishnan <img src="http://i.imgur.com/VhFoQUj.jpg" alt="Tara Balakrishnan" width="105.3" height="133"> 
 
+Edwin Park <img src="http://i.imgur.com/TyXkgi0.jpg" alt="Edwin Park" width="105.3" height="133"> 
 
-Edwin Park
-Ishita Prasad <img src="http://i.imgur.com/hlSI4zx.jpg" alt="Tara Balakrishnan" width="102.4" height="68.25"> 
+Ishita Prasad <img src="http://i.imgur.com/hlSI4zx.jpg" alt="Ishita Prasad" width="102.4" height="68.25"> 
 
-
-Emily Tang
+Emily Tang <img src="http://i.imgur.com/BE2CmbR.jpg" alt="Emily Tang" width="105.3" height="133"> 
 
 
 
