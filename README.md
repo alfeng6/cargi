@@ -5,12 +5,14 @@ Many tools in our lives that are personalized, and we should expect the same thi
 
 # Team Logo:
 
-# Team Members: Maya Balakrishnan, Tara Balakrishnan, Edwin Park, Ishita Prasad, Emily Tang
+# Team Members: 
+Maya Balakrishnan
+Tara Balakrishnan ![Tara Pic] (https://www.facebook.com/photo.php?fbid=10150466277853680&set=a.445085728679.242791.823573679&type=3&theater)
+Edwin Park
+Ishita Prasad
+Emily Tang
 
 
-# Photos:
-
-# Project Synopsis:
 
 # Links for Team Communication: cargi.slack.com
 
