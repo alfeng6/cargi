@@ -7,7 +7,7 @@ Many tools in our lives that are personalized, and we should expect the same thi
 
 # Team Members: 
 Maya Balakrishnan
-Tara Balakrishnan ![Tara Pic] (http://i.imgur.com/VhFoQUj.jpg (784b) )
+Tara Balakrishnan ![Tara Pic] (http://i.imgur.com/VhFoQUj.jpg (184b) )
 Edwin Park
 Ishita Prasad
 Emily Tang
