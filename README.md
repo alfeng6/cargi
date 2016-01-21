@@ -6,27 +6,18 @@ Many tools in our lives are personalized, and we should expect the same things f
 
 # Team Members: 
 <img src="http://i.imgur.com/2IXwdq9.jpg" alt="Maya Balakrishnan" width="105.3" height="157.5"> 
-
 Maya Balakrishnan 
 
-
 <img src="http://i.imgur.com/VhFoQUj.jpg" alt="Tara Balakrishnan" width="105.3" height="133"> 
-
 Tara Balakrishnan 
 
-
 <img src="http://i.imgur.com/TyXkgi0.jpg" alt="Edwin Park" width="204.8" height="136.5"> 
-
 Edwin Park 
 
-
 <img src="http://i.imgur.com/hlSI4zx.jpg" alt="Ishita Prasad" width="204.8" height="136.5"> 
-
 Ishita Prasad 
 
-
 <img src="http://i.imgur.com/BE2CmbR.jpg" alt="Emily Tang" width="204.8" height="153.6"> 
-
 Emily Tang 
 
 # Team Skills Matrix:
