@@ -25,7 +25,7 @@ Emily Tang
 Member | Skills | Personal Traits | Desired Growth | Weaknesses | Hat
 --- | --- | --- | --- | --- | ---
 Edwin | iOS Development, Data Mining, Machine Learning, AI, Computer Vision | Meticulous, disciplined | Management, collaboration, GitHub | Tends to procrastinate often | Blue Hat
-Emily | Team/Product Management, Natural Language Processing, Computer Vision, AI, Machine Learning | ... | Programming, HCI | ... | Yellow Hat
+Emily | Team/Product Management, Natural Language Processing, Computer Vision, AI, Machine Learning | Optimistic, hardworking, organized | Programming, HCI | Stubborn and opinionated | Yellow Hat
 Ishita | Design thinking, ethnography, user research, prototyping, visuals, web programming | Strategic, empathetic, very organized  | Product strategy, design, management, collaboration | Programming, AI, bad memory | Black Hat
 Maya | Web Applications, Mobile Development, Data collection and formatting, Writing, Communication  | Logical, creative, detail-oriented | Coordination of large-scale projects | Gets too caught up in small details | Green Hat
 Tara | Statistical Data Mining, Machine Learning, NLP, HCI, Econometrics, Business/product Strategy | Calm |  Mobile Development, Scalable Systems | Documentation | White Hat
