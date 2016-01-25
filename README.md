@@ -35,5 +35,6 @@ Join our Slack channel at [cargi.slack.com/signup](http://cargi.slack.com/signup
 
 2. [Google Drive](https://drive.google.com/folderview?id=0B9Jtns7w2L8rdUNzOF9tZWF4MjQ&usp=sharing)
 
+3. [Google Calendar] (https://calendar.google.com/calendar/embed?src=stanford.edu_fa6rilc6g9ib2hka3tdv4asc9c%40group.calendar.google.com&ctz=America/Los_Angeles)
 
 
