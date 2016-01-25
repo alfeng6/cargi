@@ -13,6 +13,7 @@ Tara Balakrishnan | <img src="http://i.imgur.com/VhFoQUj.jpg" alt="Tara Balakris
 Edwin Park | <img src="http://i.imgur.com/TyXkgi0.jpg" alt="Edwin Park" width="204.8" height="136.5"> 
 Ishita Prasad | <img src="http://i.imgur.com/hlSI4zx.jpg" alt="Ishita Prasad" width="204.8" height="136.5"> 
 Emily Tang | <img src="http://i.imgur.com/BE2CmbR.jpg" alt="Emily Tang" width="204.8" height="153.6"> 
+Kartik Sawhney
 
 # Team Skills Matrix:
 
@@ -23,6 +24,7 @@ Emily | Team/Product Management, Natural Language Processing, Computer Vision, A
 Ishita | Design thinking, ethnography, user research, prototyping, visuals, web programming | Strategic, empathetic, very organized  | Product strategy, design, management, collaboration | Programming, AI, bad memory | Black Hat
 Maya | Web Applications, Mobile Development, Data collection and formatting, Writing, Communication  | Logical, creative, detail-oriented | Coordination of large-scale projects | Gets too caught up in small details | Green Hat
 Tara | Statistical Data Mining, Machine Learning, NLP, HCI, Econometrics, Business/product Strategy | Calm |  Mobile Development, Scalable Systems | Documentation | White Hat
+Kartik | Machine learning, NLP, web apps, HCI, communication, writing | Logical, detail oriented, leadership qualities | Mobile development, AI | Front-end | ...
 
 
 
