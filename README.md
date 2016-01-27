@@ -12,7 +12,7 @@ Maya Balakrishnan | <img src="http://i.imgur.com/2IXwdq9.jpg" alt="Maya Balakris
 Tara Balakrishnan | <img src="http://i.imgur.com/VhFoQUj.jpg" alt="Tara Balakrishnan" width="105.3" height="133"> 
 Edwin Park | <img src="http://i.imgur.com/TyXkgi0.jpg" alt="Edwin Park" width="204.8" height="136.5"> 
 Ishita Prasad | <img src="http://i.imgur.com/hlSI4zx.jpg" alt="Ishita Prasad" width="204.8" height="136.5"> 
-Kartik Sawhney | <img src="http://i.imgur.com/rpkFTgo.jpg" alt="Emily Tang" width="105.3" height="157.5"> 
+Kartik Sawhney | <img src="http://i.imgur.com/rpkFTgo.jpg" alt="Emily Tang" width="106.9" height="137.1"> 
 Emily Tang | <img src="http://i.imgur.com/BE2CmbR.jpg" alt="Emily Tang" width="204.8" height="153.6"> 
 
 
@@ -24,9 +24,10 @@ Member | Skills | Personal Traits | Desired Growth | Weaknesses | Hat
 Edwin | iOS Development, Data Mining, Machine Learning, AI, Computer Vision | Meticulous, disciplined | Management, collaboration, GitHub | Tends to procrastinate often | Blue Hat
 Emily | Team/Product Management, Natural Language Processing, Computer Vision, AI, Machine Learning | Optimistic, hardworking, organized | Programming, HCI | Stubborn and opinionated | Yellow Hat
 Ishita | Design thinking, ethnography, user research, prototyping, visuals, web programming | Strategic, empathetic, very organized  | Product strategy, design, management, collaboration | Programming, AI, bad memory | Black Hat
+Kartik | Machine learning, NLP, web apps, HCI, communication, writing | Logical, detail oriented, leadership qualities | Mobile development, AI | Front-end | Yellow Hat
 Maya | Web Applications, Mobile Development, Data collection and formatting, Writing, Communication  | Logical, creative, detail-oriented | Coordination of large-scale projects | Gets too caught up in small details | Green Hat
 Tara | Statistical Data Mining, Machine Learning, NLP, HCI, Econometrics, Business/product Strategy | Calm |  Mobile Development, Scalable Systems | Documentation | White Hat
-Kartik | Machine learning, NLP, web apps, HCI, communication, writing | Logical, detail oriented, leadership qualities | Mobile development, AI | Front-end | ...
+
 
 
 
