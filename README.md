@@ -22,7 +22,7 @@ Emily Tang | <img src="http://i.imgur.com/BE2CmbR.jpg" alt="Emily Tang" width="2
 Member | Skills | Personal Traits | Desired Growth | Weaknesses | Hat
 --- | --- | --- | --- | --- | ---
 Maya | Web Applications, Mobile Development, Data collection and formatting, Writing, Communication  | Logical, creative, detail-oriented | Coordination of large-scale projects | Gets too caught up in small details | Green Hat
-Tara | Statistical Data Mining, Machine Learning, NLP, HCI, Econometrics, Business/product Strategy | Calm |  Mobile Development, Scalable Systems | Documentation | White Hat
+Tara | Statistical Data Mining, Machine Learning, NLP, HCI, Econometrics, Business/product Strategy | high-level thinker |  Mobile Development, Scalable Systems | Documentation | White Hat
 Edwin | iOS Development, Data Mining, Machine Learning, AI, Computer Vision | Meticulous, disciplined | Management, collaboration, GitHub | Tends to procrastinate often | Blue Hat
 Ishita | Design thinking, ethnography, user research, prototyping, visuals, web programming | Strategic, empathetic, very organized  | Product strategy, design, management, collaboration | Programming, AI, bad memory | Black Hat
 Kartik | Machine learning, NLP, web apps, HCI, communication, writing | Logical, detail oriented, leadership qualities | Mobile development, AI | Front-end | Yellow Hat
