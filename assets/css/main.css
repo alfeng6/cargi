@@ -20,7 +20,7 @@ body {
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Museo Slab', sans-serif;
+    font-family: 'museo-slab', sans-serif;
     font-weight: 300;
     color: #333;
 }
@@ -95,12 +95,12 @@ a:after {
 
 .navbar-default .navbar-brand {
 	color: black;
-    font-family: 'Museo Slab', serif;
+    font-family: 'museo-slab', serif;
 }
 
 .navbar-default .navbar-nav > li > a {
 	color: black;
-    font-family: 'Museo Slab', serif;
+    font-family: 'museo-slab', serif;
 }
 
 /* Helpers */
