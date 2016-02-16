@@ -101,6 +101,9 @@ a:after {
 	color: black;
     font-family: 'museo-slab', serif;
     font-size:30px;
+}
+
+.navbar-brand b {
     margin-left: 10px;
 }
 
