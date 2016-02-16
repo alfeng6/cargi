@@ -103,6 +103,10 @@ a:after {
     font-size:30px;
 }
 
+.navbar-brand {
+    padding-top: 30px;
+}
+
 .navbar-brand b {
     margin-left: 10px;
 }
@@ -110,6 +114,8 @@ a:after {
 .navbar-default .navbar-nav > li > a {
 	color: black;
     font-family: 'museo-slab', serif;
+    padding-top:30px;
+    line-height: 30px;
 }
 
 /* Helpers */
