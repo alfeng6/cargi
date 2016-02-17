@@ -19,12 +19,14 @@ body {
 }
 
 .fa {
-    color:#bbb;
+    color:rgba(255,255,255,0.4);
+    padding:10px;
 }
+
 
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'museo-slab', sans-serif;
+    font-family: 'Museo Slab', 'museo-slab', sans-serif;
     font-weight: 300;
     color: #333;
 }
@@ -35,7 +37,8 @@ h1 {
 
 h3 {
 	color: #95a5a6;
-	font-weight: 400;
+    font-family: "Lato", sans-serif;
+    line-height: 40px;
 }
 
 h4 {
@@ -57,7 +60,6 @@ p {
 
 /* Links */
 a {
-    color: #3498db;
     word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -69,7 +71,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #7b7b7b;
+    color: rgba(255,255,255,0.8);
     text-decoration: none;
     outline: 0;
 }
@@ -93,13 +95,13 @@ a:after {
 }
 
 .navbar-default {
-	background-color: #ffffff; /*#3498db;*/
+	background-color: rgba(0,0,0,0); /*#3498db;*/
 	border-color: transparent;
 }
 
 .navbar-default .navbar-brand {
-	color: black;
-    font-family: 'museo-slab', serif;
+	color: white;
+    font-family: 'Museo Slab', 'museo-slab', serif;
     font-size:30px;
 }
 
@@ -112,8 +114,8 @@ a:after {
 }
 
 .navbar-default .navbar-nav > li > a {
-	color: black;
-    font-family: 'museo-slab', serif;
+	color: white;
+    font-family: 'Lato', sans-serif;
     padding-top:30px;
     line-height: 30px;
 }
@@ -134,6 +136,27 @@ a:after {
 i {
 	margin: 8px;
 	color: #3498db; 
+}
+
+.jumboshrimp {
+    height:100vh;
+    background-color: #42B557;
+    background-size: cover;
+    color:white;
+    text-align: center;
+    display:flex;
+    align-items:center;
+    font-family: "Museo Slab";
+}
+
+.jumboshrimp > .container {
+    max-width: 750px;
+}
+
+.jumboshrimp h1 {
+    font-size: 70px;
+    line-height: 100px;
+    font-weight: 500;
 }
 
 
