@@ -7,7 +7,7 @@ cs142App.config(['$routeProvider',
           templateUrl: 'dashboard.html',
         }).
         when('/assistant', {
-          templateUrl: 'index.html',
+          templateUrl: 'dashboard.html',
         }).
         otherwise({
           redirectTo: '/'
