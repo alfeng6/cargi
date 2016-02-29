@@ -1,15 +1,21 @@
-var cs142App = angular.module('cs142App', ['ngRoute']);
+var cargiApp = angular.module('cargiApp', ['ngRoute']);
 
-cs142App.config(['$routeProvider',
+cargiApp.config(['$routeProvider',
     function($routeProvider) {
       $routeProvider.
         when('/dashboard', {
           templateUrl: 'dashboard.html',
+          controller: 'RouteController'
         }).
         when('/assistant', {
-          templateUrl: 'comingsoon.html',
+          templateUrl: 'dashboard.html',
+          controller: 'RouteController'
         }).
         otherwise({
           redirectTo: '/'
         });
 }]);
+
+module.controller("RouteController", function($scope) {
+
+})
