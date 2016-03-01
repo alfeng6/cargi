@@ -35,8 +35,9 @@ h1 {
 	font-size: 40px;
 }
 
-h2 {
+h2.subheading {
     font-size:30px;
+    color: white; /* not sure what color: #333 is... so hard coding the white in for dashboard.html - em*/
 }
 
 h3 {
