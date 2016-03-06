@@ -195,3 +195,12 @@ i {
 	font-weight: 300;
 	letter-spacing: 1px;
 }
+
+@media screen and (max-width: 480px) {
+    .jumboshrimp h1 {
+    font-size: 40px;
+    line-height: 50px;
+   font-weight: 500;
+}
+
+}
