@@ -197,6 +197,14 @@ i {
 	letter-spacing: 1px;
 }
 
+h4 a:hover {
+	color:#80B9E9;
+}
+
+h4 a {
+	line-height: 30px;
+}
+
 @media screen and (max-width: 700px) {
     .jumboshrimp h1 {
     font-size: 40px;
