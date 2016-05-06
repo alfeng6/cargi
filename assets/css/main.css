@@ -197,6 +197,32 @@ i {
 	letter-spacing: 1px;
 }
 
+.download-btn-div {
+    padding-top: 50px;
+
+}
+#cargi-app-layout {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.cargi-app {
+    padding-top: 50px;
+}
+.app-demo {
+    padding: 10px;
+    height:350px;
+    width:auto;
+}
+#download-btn {
+    background-color: white;
+    outline: white thick;
+    /*outline-color: white;*/
+    /*outline-style: bold;*/
+    /*outline-width: 10px;*/
+    color:#42b557;
+    /*font-color:#3498db;*/
+    font-family: Lato;
+}
 h4 a:hover {
 	color:#80B9E9;
 }
