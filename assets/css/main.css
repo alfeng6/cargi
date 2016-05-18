@@ -100,14 +100,16 @@ a:after {
 }
 
 .navbar-default {
-	background-color: rgba(0,0,0,0); /*#3498db;*/
+	/*background-color: rgba(0,0,0,0); /*#3498db;*/*/
+    background-color: #ffffff;
 	border-color: transparent;
 }
 
 .navbar-default .navbar-brand {
-	color: white;
+	color: #333;
     font-family: 'Museo Slab', 'museo-slab', serif;
     font-size:30px;
+    background-color: #ffffff;
 }
 
 .navbar-brand {
@@ -119,10 +121,15 @@ a:after {
 }
 
 .navbar-default .navbar-nav > li > a {
-	color: white;
+	color: #333;
     font-family: 'Lato', sans-serif;
     padding-top:30px;
     line-height: 30px;
+    background-color: #ffffff;
+}
+
+.navbar {
+    background-color: #ffffff;
 }
 
 /* Helpers */
