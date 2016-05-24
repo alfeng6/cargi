@@ -29,9 +29,9 @@ html { font-size: 100%; /* 1 */
 html, html a { -webkit-font-smoothing: antialiased; text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004); }
 /* * Addresses `font-family` inconsistency between `textarea` and other form
 * elements. */
-html, button, input, select, textarea { font-family: 'Varela Round', sans-serif; }
+html, button, input, select, textarea { font-family: 'Lato', sans-serif; }
 /* * Addresses margins handled incorrectly in IE 6/7. */
-body { margin: 0; font-family: 'Varela Round', sans-serif; }
+body { margin: 0; font-family: 'Lato', sans-serif; }
 /* ==========================================================================
 Links
 ========================================================================== */
@@ -212,7 +212,8 @@ nav ul li a:hover, nav ul li a:focus { text-decoration: none; color: rgba(255, 2
 /* ==========================================================================
 Hero
 ========================================================================== */
-.hero { background: url('../img/hero-bg.jpg') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 65px 0 300px 0; height: auto; }
+.hero { background: url('../img/hero-bg1.png') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 65px 0 300px 0; height: auto; }
+ .hero { background-color: #3FC380;}
 .hero h1 { font-size: 40px; letter-spacing: 12px; margin: 10px; }
 .hero h1 span { color: #a1a9b0; display: inline-block; }
 .hero p { letter-spacing: 1px; }
@@ -323,4 +324,4 @@ Waypoints
 .delay-05s { animation-delay: 0.5s; -webkit-animation-delay: 0.5s; }
 .delay-1s { animation-delay: 1s; -webkit-animation-delay: 1s; }
 /*.wp3 { background: url('../img/cargi-iphone.png') no-repeat center center; background-position: 200px 10px; height: 100%;}*/
-.wp3 { background: url('../img/cargi-iphone.png') no-repeat center center; background-position: 100px 250; height: 110%; background-size: 120%;}
+.wp3 { background: url('../img/cargi-iphone.jpg') no-repeat center center; background-position: 100px 250; height: 110%; background-size: 120%;}
