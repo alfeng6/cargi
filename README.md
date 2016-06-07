@@ -73,15 +73,15 @@ Given the demand for ways to find cheap gas, we subsequently added a feature tha
 The functionality of our project can be divided into the following heads. 
 
 1. IOS app
-..* Texting and calling
-..* Identification of relevant contacts 
-..* Navigation
-..* Music
-..* Cheapest gas
-..* Continuous speech recognition and text-to-speech
+  * Texting and calling
+  * Identification of relevant contacts 
+  * Navigation
+  * Music
+  * Cheapest gas
+  * Continuous speech recognition and text-to-speech
 2. Backend
-..* Rule-based model for ranking contacts
-..* Smart suggestion of contacts
+  * Rule-based model for ranking contacts
+  * Smart suggestion of contacts
 
 ### IOS app
 
