@@ -53,7 +53,7 @@ Cargi is a smart personal assistant for car that makes your driving experience p
 
 We began the design process with need-finding to understand the challenges that people faced while driving. As a part of this process, we conducted immersive interviews with several users about their experiences driving to/from work. Some of our major findings included patterns in user's activities in the car, difficulty in notifying ETAs, lack of a navigation app that accounted for real-time traffic, bad interface for calling/texting, challenges staying attentive and the need for information on cheap gas stations. This was followed by a phase of analogous research to explore the existing technologies and apps. Finally, we brainstormed several ideas for the features that would be most helpful for our customers. The picture below captures one of our brainstorming sessions. 
 
-<img src="http://i.imgur.com/Gx6pQC0.jpg" alt="Cargi Brainstorming" width="108.76" height="81.6"> 
+<img src="http://i.imgur.com/Gx6pQC0.jpg" alt="Cargi Brainstorming" width="3264" height="2448"> 
 
 ## Design Rationale
 
