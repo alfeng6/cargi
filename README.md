@@ -105,7 +105,7 @@ Cargi opens the preferred app using deep learning. We currently support Spotify 
 
 #### Cheapest and nearest gas stations
 
-We developed an API located at https://gas-price-api.herokuapp.com/ that takes in a zip code, gets the corresponding city and state using the Ziptastic API, scrapes the MapQuest website for nearest and cheapest gas stations, and returns a JSON object with the nearest stations and the gas prices. Using this object, the relevant information is presented to the user, and Cargi can then navigate the user to the desired gas station using the navigation feature described above. 
+We developed an API located at https://gas-price-api.herokuapp.com/ that takes in a zip code, gets the corresponding city and state using the Ziptastic API, scrapes the MapQuest website for gas prices, and returns a JSON object with the gas prices. We use this with the Google Places API that gets the five nearest gas stations. Using these two APIs, the relevant information is presented to the user, and Cargi can then navigate the user to the desired gas station using the navigation feature described above. 
 
 #### Continuous speech recognition and TTS
 
@@ -127,3 +127,6 @@ The eventContacts API helps resolve the situation where one of the two users, sa
 
 Some of the future extensions of this project include developing an Android app, making smarter suggestions based on analysis of past events (we already have a basic implementation of this feature in our backend repo), integrating with car, support for more third party apps, and integrating with reminders or similar apps to enhance user productivity.
 
+# Quick Start Guide
+
+Download our app [here] (https://goo.gl/UhHjX6). On launching the app, our tutorial will help you get up and speed with the features of our app. 
